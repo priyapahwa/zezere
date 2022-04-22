@@ -1,0 +1,4 @@
+django>=2.1
+djangorestframework
+mod_wsgi-standalone
+psycopg2-binary
